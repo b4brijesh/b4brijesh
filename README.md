@@ -3,9 +3,9 @@
 
 Looks like you have landed on the GitHub profile of [Brijesh Sahoo](https://www.linkedin.com/in/brijesh-sahoo/).
 
-I am a passionate software developer from India with almost 4 years of working experience, 3 of them as an analyst. Phew!. Feels like I am really old. Have been working at Tata AIG for almost a year now. I have somewhat of a non-conventional engineering background and keep trying to self-learn CS fundamentals via whatever medium possible to this day.
+I am a passionate software developer from India with almost 4 years of working experience, 3 of them as an analyst. Phew!. Feels like I am really old. I have somewhat of a non-conventional engineering background and keep trying to self-learn CS fundamentals via whatever medium possible to this day.
 
-- 🔭 Most of my time is spent building software backends for customers and other teams at Tata AIG. 
+- 🔭 Most of my time is spent building software backends for customers and other teams. 
 
 - 🌱 These days I have started to learn more about UI frameworks like React. Still there are a lot of other things I would like to work with given the opportunity. Cool things on my bucket list include Flutter, Svelte, Go and Rust.
 
