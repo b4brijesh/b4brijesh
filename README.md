@@ -1,20 +1,15 @@
 ### Hi there 👋
 
-
-Looks like you have landed on the GitHub profile of [Brijesh Sahoo](https://www.linkedin.com/in/brijesh-sahoo/).
-
-I am a passionate software developer from India with almost 4 years of working experience, 3 of them as an analyst. Phew!. Feels like I am really old. I have somewhat of a non-conventional engineering background and keep trying to self-learn CS fundamentals via whatever medium possible to this day.
+Looks like you have landed on my GitHub profile. I am Brijesh [pronounced: bree-jaysh], a passionate software developer from India.
 
 - 🔭 Most of my time is spent building software backends for customers and other teams. 
 
-- 🌱 These days I have started to learn more about UI frameworks like React. Still there are a lot of other things I would like to work with given the opportunity. Cool things on my bucket list include Flutter, Svelte, Go and Rust.
+- 🌱 These days I am working with Go and the ecosystem around it. Cool things to learn on my bucket list include Flutter, Svelte and Rust.
 
-- 💬 Not your typical first-mover in today's FOMO-world. Rather I try to build a strategy and then planning stuff out as much as possible. That said I am quite flexible: ask some of my colleagues here and they should vouch.
+- 💬 I try to build a strategy and plan stuff out as much as possible. That said I am quite flexible: ask some of my colleagues and they should vouch.
 
-- ⚡ I am always eager to learn more about how to build and ship elegant and minimalistic products and features that take your breath away.
+- 📫 In my pastime I enjoy listening to music (synth-wave, soundtracks and retro), podcasts and watching sitcoms. 
 
-- 📫 Besides coding, I enjoy listening to music (synth-wave, soundtracks and retro), podcasts (mostly career and software related, checkout [Changelog](https://changelog.com/) to get a taste), and watching sitcoms. 
+Feel free to ping me on [Twitter](https://twitter.com/martiandrover) or [LinkedIn](https://www.linkedin.com/in/brijesh-sahoo/) to talk about anything you think we might have in common!
 
-Feel free to ping me on [Facebook](https://www.facebook.com/bforbrijesh) or [Twitter](https://twitter.com/bforbrijesh) to talk about anything you think we might have in common!.
-
-**Languages and Tools I am familiar with:** _Javascript, TypeScript, Node.js, Python, Java, Serverless, DynamoDB, and a few others I can't recollect anymore_
+**Things I have become familiar with over the years:** _JavaScript, TypeScript, React.js, Node.js, Python, Flask, FastAPI, Java, SQL, AWS services (too many to list), Spreadsheets (yep, they hold the world together when everything else fails)_
